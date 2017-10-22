@@ -32,7 +32,7 @@ Página principal que aloja a la biografía de Grace Hopper.
 ##### INFORMATION HTML
 Página secundaria que aloja mayor información de Grace Hopper.
 
-#### README
+##### README
 Documento explicativo del proyecto.
 
 Autora
